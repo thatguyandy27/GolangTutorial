@@ -1,0 +1,10 @@
+2020/07/16 09:49:28 error: open ./config.toml: no such file or directory
+Can't open config file
+main.readConfig
+	/Users/andrew/Documents/tutorials/go/lesson5/config.go:17
+main.main
+	/Users/andrew/Documents/tutorials/go/lesson5/config.go:35
+runtime.main
+	/usr/local/go/src/runtime/proc.go:203
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1373
